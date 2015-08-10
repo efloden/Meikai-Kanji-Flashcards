@@ -9,7 +9,8 @@ Meikaichan was developed using Windows 8.1
 
 INSTALLATION  
 
-Everything needed to run the example flashcard set of Meikaichan is contained in the file "Meikaichan". 
+Everything needed to run the example flashcard set of Meikaichan is contained in the file "Meikaichan".
+
 Meikaichan can be run through IDLE or double-clicking "Meikaichan.py".  
 
 PYTHON MODULES  
