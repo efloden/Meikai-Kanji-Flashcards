@@ -27,8 +27,6 @@ without express permission, with exclusion of commercial application.
 from Tkinter import *
 import random
 import json
-import Image
-import ImageTk
 import pygame
 import tkMessageBox
 import tkFileDialog
